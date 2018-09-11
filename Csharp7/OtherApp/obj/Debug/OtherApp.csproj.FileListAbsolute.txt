@@ -1,0 +1,11 @@
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\Csharp7\OtherApp\obj\Debug\OtherApp.csproj.CoreCompileInputs.cache
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\Csharp7\OtherApp\bin\Debug\OtherApp.exe.config
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\Csharp7\OtherApp\bin\Debug\OtherApp.exe
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\Csharp7\OtherApp\bin\Debug\OtherApp.pdb
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\Csharp7\OtherApp\bin\Debug\Csharp7.exe
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\Csharp7\OtherApp\bin\Debug\Csharp7.pdb
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\Csharp7\OtherApp\bin\Debug\Csharp7.exe.config
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\Csharp7\OtherApp\obj\Debug\OtherApp.csprojAssemblyReference.cache
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\Csharp7\OtherApp\obj\Debug\OtherApp.csproj.CopyComplete
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\Csharp7\OtherApp\obj\Debug\OtherApp.exe
+C:\Users\jmielewx.DESKTOP-LARHGVR\source\repos\Csharp7\OtherApp\obj\Debug\OtherApp.pdb
